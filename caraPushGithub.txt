@@ -1,5 +1,5 @@
 - "git init ." = untuk inisialisasi
 - "git add ." = untuk menambahkan suatu file
 - "git commit -m namakomit" = untuk penamaan versi
-- "git remote add alamat repo" = konek ke repo github
+- "git remote add origin alamat repo" = konek ke repo github
 - "git push origin master --force" = untuk push file ke github
